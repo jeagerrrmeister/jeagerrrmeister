@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and sports
 - 🌱 I’m currently learning C and C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me sebi08.bart@gmail.com
 
 <!---
 jeagerrrmeister/jeagerrrmeister is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

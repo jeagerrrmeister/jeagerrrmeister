@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeagerrrmeister
 - 👀 I’m interested in programming and sports
-- 🌱 I’m currently learning C and C++
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me sebi08.bart@gmail.com
 
